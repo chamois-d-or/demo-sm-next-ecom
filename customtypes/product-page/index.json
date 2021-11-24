@@ -25,6 +25,9 @@
             },
             "product_list_with_cta": {
               "type": "SharedSlice"
+            },
+            "product_features_with_wide_images": {
+              "type": "SharedSlice"
             }
           }
         }
