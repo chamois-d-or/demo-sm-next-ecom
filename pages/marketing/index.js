@@ -19,12 +19,82 @@ const Page = (props) => {
   );
 };
 
+//This query gets related articles for blog_section_three_column_cards slices
+const mySuperGraphQuery = `{
+  marketing-homepage{
+   slices{
+    ...onblog_section_three_column_cards{
+     variation{
+      ...ondefault-slice{
+       items{
+        article{
+         ...onblog-page{
+          title
+          preTitle
+          description
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+ `
+
 // Fetch content from prismic
-export const getStaticProps = useGetStaticProps({
-  client: Client(),
-  type: 'marketing-homepage', 
-  queryType: 'single',
-});
+export async function getStaticProps(context) {
+  const previewRef = context.preview ? context.previewData.ref : null;
+  const document = await getDocumentByUID('marketing-homepage')
+  const linkedDocument = await getDocumentByUID('marketing-homepage', {'graphQuery': mySuperGraphQuery})
+    if (!document) {
+      return {
+        notFound: true,
+      }
+    }
+    if (linkedDocument) {
+      const linkedArticles = []
+      linkedDocument.data.slices.map((slice,sliceIndex) => {
+        linkedArticles.unshift([])
+        slice.items.map((link,linkIndex) => {
+          if(link.article.data === undefined){
+            linkedArticles[sliceIndex][linkIndex]=null;
+          }
+          else{
+            linkedArticles[sliceIndex][linkIndex]=link.article.data
+          }
+        })
+      })
+      let articlesListIndex = 0;
+      document.data.slices.map((slice) =>{
+        if(slice.slice_type==='blog_section_three_column_cards'){
+          slice.items.map((item,index) => {
+            if(linkedArticles[articlesListIndex][index]){
+              slice.items[index].title=linkedArticles[articlesListIndex][index].title[0].text
+              slice.items[index].category=linkedArticles[articlesListIndex][index].preTitle[0].text
+              slice.items[index].description=linkedArticles[articlesListIndex][index].description[0].text
+            }
+          })
+          articlesListIndex ++
+        }
+      })
+    }
+    return {
+      props:{
+        ...document,
+        previewData: context.previewData || {},
+        preview: context.preview || {},
+        slices: document.data.slices
+      }, // will be passed to the page component as props
+    }
+}
+
+// export const getStaticProps = useGetStaticProps({
+//   client: Client(),
+//   type: 'marketing-homepage', 
+//   queryType: 'single',
+// });
 
 const useUpdateToolbarDocs = (docQuery, deps) => {
   useEffect(() => {

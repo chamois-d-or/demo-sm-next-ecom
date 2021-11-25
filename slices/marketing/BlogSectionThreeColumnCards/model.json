@@ -37,27 +37,6 @@
           },
           "type": "Link"
         },
-        "category": {
-          "config": {
-            "label": "category",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
-        "title": {
-          "config": {
-            "label": "Title",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
-        "description": {
-          "config": {
-            "label": "Description",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
         "image": {
           "config": {
             "label": "image",
