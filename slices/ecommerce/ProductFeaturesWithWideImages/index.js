@@ -7,11 +7,9 @@ const ProductFeaturesWithWideImages = ({ slice }) => (
       <div className="max-w-7xl mx-auto py-24 sm:py-32 sm:px-2 lg:px-4">
         <div className="max-w-2xl mx-auto px-4 lg:max-w-none">
           <div className="max-w-3xl">
-            <h2 className="font-semibold text-gray-500"><RichText render={slice.primary.title} /></h2>
-            <p className="mt-2 text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl"><RichText render={slice.primary.description} /></p>
-            <p className="mt-4 text-gray-500">
-              <RichText render={slice.primary.subtitle} />
-            </p>
+            <h2 className="font-semibold text-gray-500">{RichText.asText(slice.primary.title)}</h2>
+            <p className="mt-2 text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">{RichText.asText(slice.primary.description)}</p>
+            <p className="mt-4 text-gray-500">{RichText.asText(slice.primary.subtitle)}</p>
           </div>
 
           <div className="space-y-16 pt-10 mt-10 border-t border-gray-200 sm:pt-16 sm:mt-16">
