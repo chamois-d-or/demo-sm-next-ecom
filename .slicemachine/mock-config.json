@@ -93,6 +93,12 @@
               "patternType": "HEADING",
               "blocks": 1
             }
+          },
+          "description": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
           }
         }
       }
@@ -100,6 +106,11 @@
     "PromoSectionImageTiles": {
       "default-slice": {
         "items": {}
+      }
+    },
+    "CategoryPreviewWithImageBackgrounds": {
+      "default-slice": {
+        "primary": {}
       }
     }
   }

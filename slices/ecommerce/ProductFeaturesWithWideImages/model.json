@@ -19,17 +19,18 @@
             "placeholder": "This is where it all begins..."
           }
         },
-        "description": {
-          "type": "StructuredText",
-          "config": {
-            "single": "paragraph",
-            "label": "Description",
-            "placeholder": "A nice description of your feature"
-          }
-        },
         "subtitle": {
           "config": {
             "label": "subtitle",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        },
+        "description": {
+          "config": {
+            "label": "Description",
             "placeholder": "",
             "allowTargetBlank": true,
             "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
