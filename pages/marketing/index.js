@@ -46,8 +46,8 @@ const mySuperGraphQuery = `{
 // Fetch content from prismic
 export async function getStaticProps(context) {
   const previewRef = context.preview ? context.previewData.ref : null;
-  const document = await getDocumentByUID('marketing-homepage')
-  const linkedDocument = await getDocumentByUID('marketing-homepage', {'graphQuery': mySuperGraphQuery})
+  const document = await getDocumentByUID('marketing-homepage', { ref: previewRef })
+  const linkedDocument = await getDocumentByUID('marketing-homepage', {ref: previewRef, 'graphQuery': mySuperGraphQuery})
     if (!document) {
       return {
         notFound: true,
