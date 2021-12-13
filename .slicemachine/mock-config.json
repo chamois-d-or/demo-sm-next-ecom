@@ -74,8 +74,7 @@
       "default-slice": {
         "items": {}
       }
-    },
-    "HeaderSectionSimpleCentered": {}
+    }
   },
   "slices/ecommerce": {
     "ProductFeaturesWithWideImages": {

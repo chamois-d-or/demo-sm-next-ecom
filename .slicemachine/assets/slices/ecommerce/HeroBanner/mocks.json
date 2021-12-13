@@ -5,8 +5,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "generate frictionless eyeballs",
-      "description": "envisioneer integrated networks",
+      "title": "disintermediate back-end paradigms",
+      "description": "matrix granular infomediaries",
       "image": {
         "dimensions": {
           "width": 900,
@@ -14,7 +14,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88?w=900&h=500&fit=crop",
+        "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=900&h=500&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 500,
@@ -22,10 +22,10 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88?w=500&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=500&h=500&fit=crop"
         }
       },
-      "cta": "innovate granular initiatives",
+      "cta": "extend vertical bandwidth",
       "CTALink": {
         "link_type": "Web",
         "url": "https://slicemachine.dev"
@@ -38,8 +38,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "cultivate vertical markets",
-      "description": "generate viral initiatives",
+      "title": "envisioneer intuitive convergence",
+      "description": "synthesize holistic web services",
       "image": {
         "dimensions": {
           "width": 900,
@@ -47,7 +47,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=900&h=500&fit=crop",
+        "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=900&h=500&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 500,
@@ -55,7 +55,7 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=500&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=500&h=500&fit=crop"
         }
       }
     }
