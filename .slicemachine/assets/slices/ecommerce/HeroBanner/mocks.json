@@ -5,8 +5,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "disintermediate back-end paradigms",
-      "description": "matrix granular infomediaries",
+      "title": "integrate cross-media methodologies",
+      "description": "monetize virtual vortals",
       "image": {
         "dimensions": {
           "width": 900,
@@ -14,7 +14,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=900&h=500&fit=crop",
+        "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 500,
@@ -22,13 +22,13 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=500&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=500&h=500&fit=crop"
         }
       },
-      "cta": "extend vertical bandwidth",
+      "cta": "synergize transparent markets",
       "CTALink": {
         "link_type": "Web",
-        "url": "https://slicemachine.dev"
+        "url": "https://prismic.io"
       }
     }
   },
@@ -38,8 +38,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "envisioneer intuitive convergence",
-      "description": "synthesize holistic web services",
+      "title": "integrate transparent niches",
+      "description": "drive turn-key models",
       "image": {
         "dimensions": {
           "width": 900,
@@ -47,7 +47,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=900&h=500&fit=crop",
+        "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=900&h=500&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 500,
@@ -55,7 +55,7 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=500&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=500&h=500&fit=crop"
         }
       }
     }

@@ -37,6 +37,9 @@
             },
             "header_section_simple_centered": {
               "type": "SharedSlice"
+            },
+            "category_preview_with_scrolling_cards": {
+              "type": "SharedSlice"
             }
           }
         }
