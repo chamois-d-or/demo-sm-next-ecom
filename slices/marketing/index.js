@@ -6,6 +6,7 @@ export { default as ContentSectionCenteredEmbed } from './ContentSectionCentered
 export { default as ContentSectionCenteredImage } from './ContentSectionCenteredImage'
 export { default as ContentSectionTwoColumnsWithImage } from './ContentSectionTwoColumnsWithImage'
 export { default as FeaturedSectionCentered22 } from './FeaturedSectionCentered22'
+export { default as HeaderSectionSimpleCentered } from './HeaderSectionSimpleCentered'
 export { default as HeroSectionSplit } from './HeroSectionSplit'
 export { default as Separator } from './Separator'
 export { default as StatsSectionSplitWithImage } from './StatsSectionSplitWithImage'

@@ -74,7 +74,8 @@
       "default-slice": {
         "items": {}
       }
-    }
+    },
+    "HeaderSectionSimpleCentered": {}
   },
   "slices/ecommerce": {
     "ProductFeaturesWithWideImages": {
@@ -103,15 +104,6 @@
         }
       }
     },
-    "PromoSectionImageTiles": {
-      "default-slice": {
-        "items": {}
-      }
-    },
-    "CategoryPreviewWithImageBackgrounds": {
-      "default-slice": {
-        "primary": {}
-      }
-    }
+    "TEstSlice": {}
   }
 }

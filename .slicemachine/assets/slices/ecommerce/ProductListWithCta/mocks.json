@@ -13,19 +13,19 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://twitter.com"
         }
       },
       {
         "productLink": {
           "link_type": "Web",
-          "url": "https://prismic.io"
+          "url": "http://twitter.com"
         }
       },
       {
         "productLink": {
           "link_type": "Web",
-          "url": "https://prismic.io"
+          "url": "http://google.com"
         }
       }
     ],
@@ -33,14 +33,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "E-enable integrated ROI",
+          "text": "Reinvent integrated partnerships",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Veniam eu veniam sit ipsum ea. Sit ullamco laborum deserunt fugiat minim sint anim esse. Eiusmod aute incididunt sint culpa magna nostrud esse eu.",
+          "text": "Deserunt laboris veniam ex laborum.",
           "spans": []
         }
       ]
@@ -54,25 +54,7 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
+          "url": "http://twitter.com"
         }
       },
       {
@@ -80,26 +62,20 @@
           "link_type": "Web",
           "url": "http://twitter.com"
         }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
-        }
       }
     ],
     "primary": {
       "title": [
         {
           "type": "heading1",
-          "text": "Architect sticky e-commerce",
+          "text": "Facilitate rich e-tailers",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Fugiat mollit Lorem elit. Eu elit amet enim magna enim elit irure enim sint nisi veniam eu mollit. Aute do sint incididunt aliquip pariatur fugiat et.",
+          "text": "Ex ea do exercitation magna officia officia officia laboris exercitation. Nisi in labore eu nulla. Ad non ea aute aliqua dolore exercitation dolore.",
           "spans": []
         }
       ]
