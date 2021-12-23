@@ -28,7 +28,7 @@ const CategoryPage = (props) => {
   useUpdatePreviewRef(props.previewData.ref, props.id)
   return (
     <Layout menu={props.menu} footer={props.footer} categories={props.categories}  lang={props.lang} altLangs={props.alternate_languages}>
-      <ProductListingLayout productList={props.productList}>
+      <ProductListingLayout lang={props.lang} productList={props.productList}>
         <SliceZone {...props} resolver={resolver} />
       </ProductListingLayout>
     </Layout>

@@ -182,7 +182,7 @@ export default function Header({ menu = [], categories = [], lang = null, altLan
 
               {/* Logo */}
               <div className="ml-4 flex lg:ml-0">
-                <a href="/">
+                <a href={lang ? "/"+lang : "/"}>
                   <span className="sr-only">Workflow</span>
                   <img
                     className="h-8 w-auto"

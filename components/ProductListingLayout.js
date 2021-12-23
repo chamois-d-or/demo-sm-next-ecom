@@ -1,6 +1,6 @@
 import React from "react";
 
-const ProductListingLayout = ({ children, productList }) => {
+const ProductListingLayout = ({ children, lang, productList }) => {
   return (
     <div>
       <main>{children}</main>
@@ -19,7 +19,7 @@ const ProductListingLayout = ({ children, productList }) => {
                         />
                       </div>
                       <h3 className="mt-4 text-sm text-gray-700">
-                        <a href="#">
+                        <a href={"/"+lang+"/product/"+product.node.handle}>
                           <span className="absolute inset-0" />
                           {product.node.title}
                         </a>

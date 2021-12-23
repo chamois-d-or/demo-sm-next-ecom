@@ -11,6 +11,7 @@ import { useEffect } from 'react'
 
 import { useRouter } from 'next/router'
 import Loader from './../../../components/Loader/Loader.js'
+import {getProductData} from "../../../lib/shopify";
 
 const ProductPage = (props) => {
   const router = useRouter()
@@ -20,8 +21,10 @@ const ProductPage = (props) => {
   if(!props.id){
     return <Custom404 />
   }
-  useUpdateToolbarDocs(productPageToolbarDocs(props.uid, props.previewData.ref, props.lang), [props])
-  useUpdatePreviewRef(props.previewData.ref, props.id)
+  // if(!props.uid){
+    useUpdateToolbarDocs(productPageToolbarDocs(props.uid, props.previewData.ref, props.lang), [props])
+    useUpdatePreviewRef(props.previewData.ref, props.id)
+  // }
   return (
     <Layout menu={props.menu} footer={props.footer} categories={props.categories}  lang={props.lang} altLangs={props.alternate_languages}>
       <SliceZone {...props} resolver={resolver} />
@@ -44,22 +47,57 @@ const ProductPage = (props) => {
 
 export async function getStaticProps(context) {
   const previewRef = context.preview ? context.previewData.ref : null;
-  const document = await Client().getByUID('product-page', context.params.uid, {lang: context.params.lang, ref: previewRef})
-    if (!document) {
+  const document = await Client().getByUID('product-page', context.params.uid, {lang: context.params.lang, ref: previewRef}) // || {id: "fallback", data:{}}
+  
+  if (!document) {
+  //if (!document.data.slices) {
+    // const productData = await getProductData(context.params.uid) || null;
+    // console.log(productData)
+    // if(!productData){
       return {
         notFound: true,
       }
-    }
-    return {
-      props:{
-        ...document,
-        previewData: context.previewData || {},
-        preview: context.preview || {},
-        slices: document.data.slices
-      }, // will be passed to the page component as props
-    }
+    //}
+    //querying data from Shopify, in order to have a default template for Shopify info on top of which we add Prismic data
+    // const fallBackSlice = {
+    //   slice_type: 'product_overview_with_image_grid',
+    //   slice_label: null,
+    //   version: 'sktwi1xtmkfgx8626',
+    //   variation: 'default-slice',
+    //   primary: {
+    //     product: {
+    //       id: productData.id,
+    //       name: productData.title,
+    //       category: 'Cameras',
+    //       subcategory: 'Compact',
+    //       color: productData.variants.edges[0].node.selectedOptions[0].value,
+    //       price: productData.priceRange.minVariantPrice.amount,
+    //       href: '#',
+    //       imageSrc: productData.images.edges[0].node.originalSrc,
+    //       imageAlt: productData.title
+    //     },
+    //     description: [ {type: 'paragraph',text:productData.description,spans:[]} ],
+    //     highlights: [ {type: 'paragraph',text:"",spans:[]} ],
+    //     details: [ {type: 'paragraph',text:"",spans:[]} ]
+    //   },
+    //   items: [ {} ]
+    // };
+    // document.data.slices=[fallBackSlice]
+    // document.lang=context.params.lang
+    // document.alternate_languages=[]
+  }
+  //console.log(document)
+  return {
+    props:{
+      ...document,
+      previewData: context.previewData || {},
+      preview: context.preview || {},
+      slices: document.data.slices
+    }, // will be passed to the page component as props
+  }
 }
 
+//this needs to be modified to rely on shopify and not on Prismic
 export const getStaticPaths = useGetStaticPaths({
   client: Client(),
   type: 'product-page',
