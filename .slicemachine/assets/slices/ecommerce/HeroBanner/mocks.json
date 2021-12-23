@@ -5,8 +5,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "integrate cross-media methodologies",
-      "description": "monetize virtual vortals",
+      "title": "unleash open-source infomediaries",
+      "description": "morph B2C interfaces",
       "image": {
         "dimensions": {
           "width": 900,
@@ -14,7 +14,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop",
+        "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=900&h=500&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 500,
@@ -22,13 +22,13 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=500&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=500&h=500&fit=crop"
         }
       },
-      "cta": "synergize transparent markets",
+      "cta": "deliver user-centric e-business",
       "CTALink": {
         "link_type": "Web",
-        "url": "https://prismic.io"
+        "url": "https://slicemachine.dev"
       }
     }
   },
@@ -38,8 +38,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "integrate transparent niches",
-      "description": "drive turn-key models",
+      "title": "revolutionize sexy synergies",
+      "description": "maximize best-of-breed content",
       "image": {
         "dimensions": {
           "width": 900,
@@ -47,7 +47,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=900&h=500&fit=crop",
+        "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=900&h=500&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 500,
@@ -55,7 +55,7 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=500&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=500&h=500&fit=crop"
         }
       }
     }

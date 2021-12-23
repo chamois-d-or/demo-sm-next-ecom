@@ -42,7 +42,8 @@
     "menu-marketing": {},
     "footer-marketing": {
       "socialLinks": {}
-    }
+    },
+    "category-page": {}
   },
   "slices/navigation": {
     "MenuSimple": {
@@ -103,6 +104,7 @@
         }
       }
     },
-    "TEstSlice": {}
+    "TEstSlice": {},
+    "Myslice": {}
   }
 }

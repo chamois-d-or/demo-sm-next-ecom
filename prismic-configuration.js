@@ -28,6 +28,9 @@ export const linkResolver = (doc) => {
   if (doc.type === "product-page") {
     return `/${doc.lang}/product/${doc.uid}`;
   }
+  if (doc.type === "category-page") {
+    return `/${doc.lang}/category/${doc.uid}`;
+  }
   if (doc.type === "blog-page") {
     return `/marketing/${doc.uid}`;
   }
@@ -56,6 +59,10 @@ export const Router = {
     {
       "type":"product-page",
       "path":"/:lang/product/:uid"
+    },
+    {
+      "type":"category-page",
+      "path":"/:lang/category/:uid"
     },
     {
       "type":"blog-page",

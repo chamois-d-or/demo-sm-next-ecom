@@ -1,0 +1,35 @@
+{
+  "id": "category-page",
+  "label": "Category Page",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "uid",
+          "placeholder": ""
+        },
+        "type": "UID"
+      },
+      "category": {
+        "type": "IntegrationFields",
+        "config": {
+          "catalog": "demo-sm-next-ecom--categories",
+          "label": "Shopify Category"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "promo_section_with_background_image": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}
