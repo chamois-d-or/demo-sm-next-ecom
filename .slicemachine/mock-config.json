@@ -70,11 +70,6 @@
       "default-slice": {
         "primary": {}
       }
-    },
-    "BlogSectionThreeColumnCards": {
-      "default-slice": {
-        "items": {}
-      }
     }
   },
   "slices/ecommerce": {
@@ -103,8 +98,6 @@
           }
         }
       }
-    },
-    "TEstSlice": {},
-    "Myslice": {}
+    }
   }
 }

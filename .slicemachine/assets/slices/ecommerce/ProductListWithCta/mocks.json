@@ -7,6 +7,12 @@
       {
         "productLink": {
           "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
           "url": "https://prismic.io"
         }
       },
@@ -16,6 +22,41 @@
           "url": "https://prismic.io"
         }
       },
+      {
+        "productLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Orchestrate integrated e-markets",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Officia ex occaecat non ad sint reprehenderit tempor exercitation. Deserunt et sint sint voluptate ea esse.",
+          "spans": []
+        }
+      ]
+    }
+  },
+  {
+    "variation": "customProducts",
+    "name": "Custom Products",
+    "slice_type": "product_list_with_cta",
+    "items": [
       {
         "productLink": {
           "link_type": "Web",
@@ -39,61 +80,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Benchmark dynamic blockchains",
+          "text": "Architect compelling web services",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Occaecat enim non ex minim enim deserunt. Veniam pariatur cillum ad ullamco cillum. Tempor duis cupidatat nostrud Lorem in incididunt anim minim aliqua duis consequat culpa elit labore.",
-          "spans": []
-        }
-      ]
-    }
-  },
-  {
-    "variation": "customProducts",
-    "name": "Custom Products",
-    "slice_type": "product_list_with_cta",
-    "items": [
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        }
-      }
-    ],
-    "primary": {
-      "title": [
-        {
-          "type": "heading1",
-          "text": "Incentivize 24/365 mindshare",
-          "spans": []
-        }
-      ],
-      "description": [
-        {
-          "type": "paragraph",
-          "text": "Cupidatat non irure ex dolore est commodo sunt sunt fugiat ex esse ut minim consequat. Voluptate eiusmod commodo ex quis. Culpa ullamco occaecat laborum reprehenderit consectetur eiusmod ad amet.",
+          "text": "Cillum exercitation ut ullamco cillum voluptate sint velit. Occaecat nostrud aliqua tempor veniam elit. Dolor incididunt sit non.",
           "spans": []
         }
       ]

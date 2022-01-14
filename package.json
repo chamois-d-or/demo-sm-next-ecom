@@ -20,7 +20,7 @@
     "@heroicons/react": "^1.0.4",
     "@prismicio/client": "^4.0.0",
     "@tailwindcss/aspect-ratio": "^0.2.1",
-    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/forms": "^0.3.4",
     "@tailwindcss/typography": "^0.4.1",
     "@uniformdev/cli": "^11.0.0",
     "@uniformdev/optimize-tracker-react": "^11.0.0",
