@@ -7,18 +7,6 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "http://twitter.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
           "url": "https://prismic.io"
         }
       },
@@ -31,7 +19,19 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "http://google.com"
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
         }
       }
     ],
@@ -39,14 +39,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Orchestrate integrated e-markets",
+          "text": "Scale plug-and-play functionalities",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Officia ex occaecat non ad sint reprehenderit tempor exercitation. Deserunt et sint sint voluptate ea esse.",
+          "text": "Quis reprehenderit et adipisicing proident tempor aliqua ut nisi exercitation incididunt reprehenderit. Dolore exercitation exercitation occaecat consectetur sunt voluptate.",
           "spans": []
         }
       ]
@@ -66,13 +66,13 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://google.com"
         }
       },
       {
         "productLink": {
           "link_type": "Web",
-          "url": "https://prismic.io"
+          "url": "https://slicemachine.dev"
         }
       }
     ],
@@ -80,14 +80,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Architect compelling web services",
+          "text": "Mesh real-time functionalities",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Cillum exercitation ut ullamco cillum voluptate sint velit. Occaecat nostrud aliqua tempor veniam elit. Dolor incididunt sit non.",
+          "text": "Tempor tempor commodo commodo nisi et.",
           "spans": []
         }
       ]

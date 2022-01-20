@@ -5,31 +5,39 @@
     "slice_type": "promo_section_fading_background_testimonials",
     "items": [
       {
-        "quote": "maximize bricks-and-clicks web services",
-        "attribution": "cultivate killer content"
+        "quote": "optimize scalable infomediaries",
+        "attribution": "embrace viral web services"
       },
       {
-        "quote": "engineer sticky synergies",
-        "attribution": "deliver real-time initiatives"
+        "quote": "redefine user-centric schemas",
+        "attribution": "generate B2B communities"
+      },
+      {
+        "quote": "repurpose e-business ROI",
+        "attribution": "leverage visionary technologies"
+      },
+      {
+        "quote": "enable mission-critical markets",
+        "attribution": "streamline transparent relationships"
       }
     ],
     "primary": {
       "title": [
         {
           "type": "heading1",
-          "text": "Drive seamless mindshare",
+          "text": "Exploit user-centric platforms",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Mollit velit mollit ullamco cillum sunt eu do do. Dolore id do elit ad adipisicing et dolore ex aliqua dolore cupidatat incididunt. Nulla et et incididunt nulla elit nostrud culpa culpa cupidatat dolore aliqua ex irure.",
+          "text": "Consectetur mollit id mollit ut.",
           "spans": []
         }
       ],
-      "cta": "aggregate granular platforms",
-      "quotesTitle": "leverage viral e-markets",
+      "cta": "deliver integrated users",
+      "quotesTitle": "generate distributed technologies",
       "image": {
         "dimensions": {
           "width": 900,
@@ -37,7 +45,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=900&h=500&fit=crop"
       }
     }
   }

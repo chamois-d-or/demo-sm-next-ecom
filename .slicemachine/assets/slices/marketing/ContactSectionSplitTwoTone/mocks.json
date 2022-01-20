@@ -5,55 +5,51 @@
     "slice_type": "contact_section_split_two_tone",
     "items": [
       {
-        "field": "aggregate integrated e-commerce",
-        "fieldPlaceholder": "brand 24/365 ROI"
+        "field": "reintermediate customized experiences",
+        "fieldPlaceholder": "whiteboard bleeding-edge deliverables"
       },
       {
-        "field": "aggregate scalable convergence",
-        "fieldPlaceholder": "enhance open-source paradigms"
-      },
-      {
-        "field": "reintermediate open-source niches",
-        "fieldPlaceholder": "engage cutting-edge metrics"
+        "field": "architect sticky deliverables",
+        "fieldPlaceholder": "engage e-business e-commerce"
       }
     ],
     "primary": {
       "title": [
         {
           "type": "paragraph",
-          "text": "Consequat ipsum ut in in ad sunt Lorem nostrud magna. Veniam aute sint excepteur non fugiat qui ullamco. Lorem non nostrud est ex ipsum est.",
+          "text": "Anim eiusmod aliquip nostrud incididunt elit ad eiusmod sunt laborum pariatur esse ad in. Et et amet velit labore qui cillum magna sint cupidatat est et.",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Deserunt ex anim veniam reprehenderit nisi. Commodo enim nulla consequat Lorem ipsum aliqua eu cupidatat duis.",
+          "text": "Aliquip esse exercitation commodo ea amet id ad magna.",
           "spans": []
         }
       ],
       "address": [
         {
           "type": "paragraph",
-          "text": "Velit aliquip ad Lorem sit voluptate eiusmod dolore cupidatat nulla enim. Ipsum ex pariatur ea tempor elit nostrud reprehenderit amet.",
+          "text": "Adipisicing ea nulla esse ipsum id cupidatat id eiusmod culpa elit nostrud fugiat laborum deserunt commodo. Laborum officia sit est culpa.",
           "spans": []
         }
       ],
-      "phone": "implement next-generation solutions",
-      "email": "scale out-of-the-box markets",
+      "phone": "orchestrate back-end content",
+      "email": "productize best-of-breed portals",
       "careerText": [
         {
           "type": "paragraph",
-          "text": "Sunt Lorem occaecat ipsum nulla aliquip dolor ipsum dolore ut magna amet consequat. Aliqua in minim ipsum ut.",
+          "text": "Esse ad aliquip quis velit consequat incididunt ut esse aliquip minim incididunt occaecat non duis. Aute irure cillum nulla voluptate nulla Lorem cupidatat mollit fugiat duis ad anim id. Enim anim excepteur duis nulla eiusmod nulla mollit labore voluptate anim pariatur excepteur ullamco cillum duis.",
           "spans": []
         }
       ],
       "careerLink": {
         "link_type": "Web",
-        "url": "https://prismic.io"
+        "url": "http://twitter.com"
       },
-      "CareerLinkText": "implement best-of-breed niches",
-      "cta": "incubate synergistic e-markets"
+      "CareerLinkText": "drive global e-business",
+      "cta": "utilize 24/365 portals"
     }
   }
 ]

@@ -30,6 +30,9 @@
             },
             "hero_banner": {
               "type": "SharedSlice"
+            },
+            "contact_section_split_two_tone": {
+              "type": "SharedSlice"
             }
           }
         }
