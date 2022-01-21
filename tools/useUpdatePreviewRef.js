@@ -2,8 +2,8 @@ import { useEffect } from 'react'
 import { useRouter } from 'next/router'
 import Cookies from 'js-cookie'
 
-import { apiEndpoint } from "./../sm.json"; // import the endpoint name
-const repoName = /([a-zA-Z0-9-]+)?(\.cdn)?\.prismic\.io/.exec(apiEndpoint)[1] //Regex to get repo ID
+import smJson from "./../sm.json"; // import the endpoint name
+const repoName = /([a-zA-Z0-9-]+)?(\.cdn)?\.prismic\.io/.exec(smJson.apiEndpoint)[1] //Regex to get repo ID
 
 function getExitPreviewRoute(router) {
   const defaultPreviewExitUrl = '/api/exit-preview'

@@ -1,6 +1,6 @@
 import React from 'react'
 import { RichText } from 'prismic-reactjs'
-import SliceResolver from '../../../sm-resolver'
+//import SliceResolver from '../../../sm-resolver'
 
 const ProductListWithCta = ({ slice }) => (
   <section>

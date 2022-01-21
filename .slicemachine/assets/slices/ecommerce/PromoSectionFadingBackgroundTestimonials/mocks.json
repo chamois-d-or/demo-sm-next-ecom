@@ -5,39 +5,31 @@
     "slice_type": "promo_section_fading_background_testimonials",
     "items": [
       {
-        "quote": "optimize scalable infomediaries",
-        "attribution": "embrace viral web services"
+        "quote": "envisioneer dynamic interfaces",
+        "attribution": "orchestrate collaborative models"
       },
       {
-        "quote": "redefine user-centric schemas",
-        "attribution": "generate B2B communities"
-      },
-      {
-        "quote": "repurpose e-business ROI",
-        "attribution": "leverage visionary technologies"
-      },
-      {
-        "quote": "enable mission-critical markets",
-        "attribution": "streamline transparent relationships"
+        "quote": "harness mission-critical e-business",
+        "attribution": "transition seamless e-tailers"
       }
     ],
     "primary": {
       "title": [
         {
           "type": "heading1",
-          "text": "Exploit user-centric platforms",
+          "text": "Grow magnetic channels",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Consectetur mollit id mollit ut.",
+          "text": "Duis incididunt exercitation aliquip voluptate. Commodo ipsum sit in do eu eiusmod enim ullamco duis adipisicing veniam non anim consectetur do.",
           "spans": []
         }
       ],
-      "cta": "deliver integrated users",
-      "quotesTitle": "generate distributed technologies",
+      "cta": "matrix viral deliverables",
+      "quotesTitle": "target viral applications",
       "image": {
         "dimensions": {
           "width": 900,
@@ -45,7 +37,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=900&h=500&fit=crop"
       }
     }
   }

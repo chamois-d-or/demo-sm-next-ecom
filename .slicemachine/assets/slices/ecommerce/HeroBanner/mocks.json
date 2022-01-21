@@ -5,8 +5,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "facilitate transparent interfaces",
-      "description": "monetize turn-key experiences",
+      "title": "generate frictionless communities",
+      "description": "reintermediate impactful blockchains",
       "image": {
         "dimensions": {
           "width": 900,
@@ -14,7 +14,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop",
+        "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88?w=900&h=500&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 500,
@@ -22,10 +22,10 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=500&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88?w=500&h=500&fit=crop"
         }
       },
-      "cta": "brand distributed initiatives",
+      "cta": "deliver magnetic web-readiness",
       "CTALink": {
         "link_type": "Web",
         "url": "http://google.com"
@@ -38,8 +38,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "enable plug-and-play content",
-      "description": "synergize impactful web services",
+      "title": "synthesize real-time supply-chains",
+      "description": "target end-to-end users",
       "image": {
         "dimensions": {
           "width": 900,
@@ -47,7 +47,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=900&h=500&fit=crop",
+        "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=900&h=500&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 500,
@@ -55,7 +55,7 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=500&h=500&fit=crop"
+          "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=500&h=500&fit=crop"
         }
       }
     }
