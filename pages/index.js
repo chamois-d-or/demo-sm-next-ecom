@@ -2,6 +2,7 @@ import { Client } from "../prismic-configuration";
 import SliceZone from "next-slicezone";
 import { useGetStaticPaths } from "next-slicezone/hooks";
 
+
 import resolver from "../sm-resolver.js";
 import Layout from "../components/Layout";
 import useUpdatePreviewRef from '../tools/useUpdatePreviewRef' //import from where you store this file
