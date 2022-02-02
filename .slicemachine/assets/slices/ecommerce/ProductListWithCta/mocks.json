@@ -7,19 +7,19 @@
       {
         "productLink": {
           "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
           "url": "https://prismic.io"
         }
       },
       {
         "productLink": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://twitter.com"
         }
       },
       {
@@ -39,14 +39,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Scale plug-and-play functionalities",
+          "text": "Enhance best-of-breed functionalities",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Quis reprehenderit et adipisicing proident tempor aliqua ut nisi exercitation incididunt reprehenderit. Dolore exercitation exercitation occaecat consectetur sunt voluptate.",
+          "text": "Culpa id anim nostrud id anim et dolor magna veniam sunt.",
           "spans": []
         }
       ]
@@ -66,13 +66,7 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "https://prismic.io"
         }
       }
     ],
@@ -80,14 +74,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Mesh real-time functionalities",
+          "text": "Disintermediate holistic bandwidth",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Tempor tempor commodo commodo nisi et.",
+          "text": "Dolore sunt et laborum duis. Enim sunt consectetur culpa consectetur aliquip laborum est ullamco Lorem non exercitation anim nulla elit minim. Adipisicing tempor sint ipsum eu in non labore reprehenderit exercitation nisi incididunt Lorem occaecat nostrud fugiat.",
           "spans": []
         }
       ]

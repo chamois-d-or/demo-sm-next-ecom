@@ -14,15 +14,16 @@
         "title": {
           "type": "StructuredText",
           "config": {
-            "single": "heading1",
             "label": "Title",
-            "placeholder": "This is where it all begins..."
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading1"
           }
         },
         "linkLabel": {
           "config": {
             "label": "linkLabel",
-            "placeholder": ""
+            "placeholder": "See more..."
           },
           "type": "Text"
         },
@@ -38,66 +39,93 @@
         "imageLeft": {
           "config": {
             "label": "Left Image",
-            "constraint": {},
-            "thumbnails": []
+            "constraint": {
+              "width": 592,
+              "height": 592
+            },
+            "thumbnails": [
+              {
+                "name": "mobile",
+                "width": 560,
+                "height": 280
+              }
+            ]
           },
           "type": "Image"
         },
         "imageLeftTitle": {
           "config": {
             "label": "Left Image Title",
-            "placeholder": ""
+            "placeholder": "My first Category..."
           },
           "type": "Text"
         },
         "imageLeftCta": {
           "config": {
             "label": "Left Image CTA",
-            "placeholder": ""
+            "placeholder": "My first category description..."
           },
           "type": "Text"
         },
         "imageTopRight": {
           "config": {
             "label": "Top Right Image",
-            "constraint": {},
-            "thumbnails": []
+            "constraint": {
+              "width": 592,
+              "height": 280
+            },
+            "thumbnails": [
+              {
+                "name": "mobile",
+                "width": 560,
+                "height": 280
+              }
+            ]
           },
           "type": "Image"
         },
         "imageTopRightTitle": {
           "config": {
             "label": "Top Right Image Title",
-            "placeholder": ""
+            "placeholder": "My second category..."
           },
           "type": "Text"
         },
         "imageTopRightCta": {
           "config": {
             "label": "Top Right Image CTA",
-            "placeholder": ""
+            "placeholder": "My second category description..."
           },
           "type": "Text"
         },
         "imageBottomRight": {
           "config": {
             "label": "Bottom Right Image",
-            "constraint": {},
-            "thumbnails": []
+            "constraint": {
+              "width": 592,
+              "height": 280
+            },
+            "thumbnails": [
+              {
+                "name": "mobile",
+                "width": 560,
+                "height": 280
+              }
+            ]
           },
           "type": "Image"
         },
         "imageBottomRightTitle": {
           "config": {
             "label": "Bottom Right Image Title",
-            "placeholder": ""
+            "placeholder": "My third category..."
           },
           "type": "Text"
         },
         "imageBottomRightCta": {
           "config": {
             "label": "Bottom Right Image CTA",
-            "placeholder": ""
+            "placeholder": "My third category description..."
           },
           "type": "Text"
         }

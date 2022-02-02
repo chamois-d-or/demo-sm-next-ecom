@@ -27,56 +27,77 @@
         },
         "image1": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Image 1",
+            "constraint": {
+              "width": 176,
+              "height": 256
+            },
             "thumbnails": []
           },
           "type": "Image"
         },
         "image2": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Image 2",
+            "constraint": {
+              "width": 176,
+              "height": 256
+            },
             "thumbnails": []
           },
           "type": "Image"
         },
         "image3": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Image 3",
+            "constraint": {
+              "width": 176,
+              "height": 256
+            },
             "thumbnails": []
           },
           "type": "Image"
         },
         "image4": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Image 4",
+            "constraint": {
+              "width": 176,
+              "height": 256
+            },
             "thumbnails": []
           },
           "type": "Image"
         },
         "image5": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Image 5",
+            "constraint": {
+              "width": 176,
+              "height": 256
+            },
             "thumbnails": []
           },
           "type": "Image"
         },
         "image6": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Image 6",
+            "constraint": {
+              "width": 176,
+              "height": 256
+            },
             "thumbnails": []
           },
           "type": "Image"
         },
         "image7": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Image 7",
+            "constraint": {
+              "width": 176,
+              "height": 256
+            },
             "thumbnails": []
           },
           "type": "Image"

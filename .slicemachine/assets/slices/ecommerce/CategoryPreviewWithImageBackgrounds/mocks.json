@@ -8,48 +8,75 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Reinvent collaborative e-business",
+          "text": "Exploit innovative niches",
           "spans": []
         }
       ],
-      "linkLabel": "implement rich methodologies",
+      "linkLabel": "incubate compelling deliverables",
       "link": {
         "link_type": "Web",
-        "url": "http://twitter.com"
+        "url": "https://prismic.io"
       },
       "imageLeft": {
         "dimensions": {
-          "width": 900,
-          "height": 500
+          "width": 592,
+          "height": 592
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=592&h=592&fit=crop",
+        "mobile": {
+          "dimensions": {
+            "width": 560,
+            "height": 280
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=560&h=280&fit=crop"
+        }
       },
-      "imageLeftTitle": "reinvent interactive channels",
-      "imageLeftCta": "optimize front-end users",
+      "imageLeftTitle": "leverage transparent partnerships",
+      "imageLeftCta": "e-enable front-end systems",
       "imageTopRight": {
         "dimensions": {
-          "width": 900,
-          "height": 500
+          "width": 592,
+          "height": 280
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=592&h=280&fit=crop",
+        "mobile": {
+          "dimensions": {
+            "width": 560,
+            "height": 280
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=560&h=280&fit=crop"
+        }
       },
-      "imageTopRightTitle": "morph value-added channels",
-      "imageTopRightCta": "transform revolutionary web-readiness",
+      "imageTopRightTitle": "incubate clicks-and-mortar convergence",
+      "imageTopRightCta": "engineer extensible bandwidth",
       "imageBottomRight": {
         "dimensions": {
-          "width": 900,
-          "height": 500
+          "width": 592,
+          "height": 280
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=592&h=280&fit=crop",
+        "mobile": {
+          "dimensions": {
+            "width": 560,
+            "height": 280
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=560&h=280&fit=crop"
+        }
       },
-      "imageBottomRightTitle": "transform 24/7 initiatives",
-      "imageBottomRightCta": "visualize clicks-and-mortar web-readiness"
+      "imageBottomRightTitle": "generate end-to-end partnerships",
+      "imageBottomRightCta": "incentivize revolutionary solutions"
     }
   }
 ]

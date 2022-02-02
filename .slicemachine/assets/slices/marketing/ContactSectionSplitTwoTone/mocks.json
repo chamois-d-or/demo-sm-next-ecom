@@ -5,51 +5,55 @@
     "slice_type": "contact_section_split_two_tone",
     "items": [
       {
-        "field": "reintermediate customized experiences",
-        "fieldPlaceholder": "whiteboard bleeding-edge deliverables"
+        "field": "exploit web-enabled blockchains",
+        "fieldPlaceholder": "mesh dot-com supply-chains"
       },
       {
-        "field": "architect sticky deliverables",
-        "fieldPlaceholder": "engage e-business e-commerce"
+        "field": "drive leading-edge relationships",
+        "fieldPlaceholder": "aggregate holistic e-tailers"
+      },
+      {
+        "field": "morph B2B initiatives",
+        "fieldPlaceholder": "harness scalable communities"
       }
     ],
     "primary": {
       "title": [
         {
           "type": "paragraph",
-          "text": "Anim eiusmod aliquip nostrud incididunt elit ad eiusmod sunt laborum pariatur esse ad in. Et et amet velit labore qui cillum magna sint cupidatat est et.",
+          "text": "Occaecat qui veniam magna ut dolor sint officia anim nostrud minim velit mollit veniam.",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Aliquip esse exercitation commodo ea amet id ad magna.",
+          "text": "Sunt nisi incididunt esse veniam ut. Sit ea incididunt sint incididunt magna laborum sunt adipisicing adipisicing Lorem ullamco sit. Cillum aliqua enim anim commodo sint fugiat ipsum sit qui est qui.",
           "spans": []
         }
       ],
       "address": [
         {
           "type": "paragraph",
-          "text": "Adipisicing ea nulla esse ipsum id cupidatat id eiusmod culpa elit nostrud fugiat laborum deserunt commodo. Laborum officia sit est culpa.",
+          "text": "Commodo qui aliquip eu aliqua sit dolor veniam. Aute non et qui commodo minim do nisi culpa commodo non adipisicing elit nostrud minim. Fugiat tempor mollit veniam culpa excepteur quis nostrud elit aute eiusmod magna officia esse.",
           "spans": []
         }
       ],
-      "phone": "orchestrate back-end content",
-      "email": "productize best-of-breed portals",
+      "phone": "innovate e-business action-items",
+      "email": "evolve leading-edge interfaces",
       "careerText": [
         {
           "type": "paragraph",
-          "text": "Esse ad aliquip quis velit consequat incididunt ut esse aliquip minim incididunt occaecat non duis. Aute irure cillum nulla voluptate nulla Lorem cupidatat mollit fugiat duis ad anim id. Enim anim excepteur duis nulla eiusmod nulla mollit labore voluptate anim pariatur excepteur ullamco cillum duis.",
+          "text": "Excepteur cillum duis magna adipisicing commodo.",
           "spans": []
         }
       ],
       "careerLink": {
         "link_type": "Web",
-        "url": "http://twitter.com"
+        "url": "http://google.com"
       },
-      "CareerLinkText": "drive global e-business",
-      "cta": "utilize 24/365 portals"
+      "CareerLinkText": "scale efficient web services",
+      "cta": "deploy seamless synergies"
     }
   }
 ]

@@ -98,6 +98,23 @@
           }
         }
       }
+    },
+    "CategoryPreviewWithImageBackgrounds": {
+      "default-slice": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "PromoSectionImageTiles": {
+      "default-slice": {
+        "primary": {}
+      }
     }
   }
 }
