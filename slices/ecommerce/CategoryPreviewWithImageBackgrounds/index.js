@@ -17,7 +17,6 @@ const CategoryPreviewWithImageBackgrounds = ({ slice }) => (
                 ? <source srcSet={slice.primary.imageLeft.mobile.url} media="(max-width: 640px)"/>
                 : <div/>
               }
-              {console.log(slice.primary.imageLeft)}
               <img
                 src={slice.primary.imageLeft.url}
                 alt={slice.primary.imageLeft.alt}
@@ -28,7 +27,7 @@ const CategoryPreviewWithImageBackgrounds = ({ slice }) => (
             <div class="p-6 flex items-end">
               <div>
                 <h3 class="font-semibold text-white">
-                  <a href="#">
+                  <a href={Link.url(slice.primary.leftImageLink)}>
                     <span class="absolute inset-0"></span>
                     <span >{ slice.primary.imageLeftTitle }</span>
                   </a>
@@ -45,7 +44,7 @@ const CategoryPreviewWithImageBackgrounds = ({ slice }) => (
             <div class="p-6 flex items-end sm:absolute sm:inset-0">
               <div>
                 <h3 class="font-semibold text-white">
-                  <a href="#">
+                  <a href={Link.url(slice.primary.topRightImageLink)}>
                     <span class="absolute inset-0"></span>
                     <span >{ slice.primary.imageTopRightTitle }</span>
                   </a>
@@ -62,7 +61,7 @@ const CategoryPreviewWithImageBackgrounds = ({ slice }) => (
             <div class="p-6 flex items-end sm:absolute sm:inset-0">
               <div>
                 <h3 class="font-semibold text-white">
-                  <a href="#">
+                  <a href={Link.url(slice.primary.bottomRightImageLink)}>
                     <span class="absolute inset-0"></span>
                     <span >{ slice.primary.imageBottomRightTitle }</span>
                   </a>

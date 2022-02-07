@@ -22,7 +22,7 @@
         "CTA": {
           "config": {
             "label": "CTA",
-            "placeholder": ""
+            "placeholder": "See more..."
           },
           "type": "Text"
         },
@@ -39,7 +39,10 @@
         "image": {
           "config": {
             "label": "Image",
-            "constraint": {},
+            "constraint": {
+              "width": 224,
+              "height": 320
+            },
             "thumbnails": []
           },
           "type": "Image"
@@ -47,7 +50,7 @@
         "title": {
           "config": {
             "label": "Title",
-            "placeholder": ""
+            "placeholder": "Title of the card..."
           },
           "type": "Text"
         },

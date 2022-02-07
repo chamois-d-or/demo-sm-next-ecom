@@ -8,14 +8,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Exploit innovative niches",
+          "text": "Maximize cross-media web services",
           "spans": []
         }
       ],
-      "linkLabel": "incubate compelling deliverables",
+      "linkLabel": "engineer rich supply-chains",
       "link": {
         "link_type": "Web",
-        "url": "https://prismic.io"
+        "url": "http://google.com"
       },
       "imageLeft": {
         "dimensions": {
@@ -24,7 +24,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=592&h=592&fit=crop",
+        "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=592&h=592&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 560,
@@ -32,11 +32,15 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=560&h=280&fit=crop"
+          "url": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?w=560&h=280&fit=crop"
         }
       },
-      "imageLeftTitle": "leverage transparent partnerships",
-      "imageLeftCta": "e-enable front-end systems",
+      "imageLeftTitle": "grow holistic partnerships",
+      "imageLeftCta": "innovate distributed functionalities",
+      "leftImageLink": {
+        "link_type": "Web",
+        "url": "http://twitter.com"
+      },
       "imageTopRight": {
         "dimensions": {
           "width": 592,
@@ -44,19 +48,14 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=592&h=280&fit=crop",
-        "mobile": {
-          "dimensions": {
-            "width": 560,
-            "height": 280
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=560&h=280&fit=crop"
-        }
+        "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=592&h=280&fit=crop"
       },
-      "imageTopRightTitle": "incubate clicks-and-mortar convergence",
-      "imageTopRightCta": "engineer extensible bandwidth",
+      "imageTopRightTitle": "repurpose 24/7 metrics",
+      "imageTopRightCta": "innovate intuitive supply-chains",
+      "topRightImageLink": {
+        "link_type": "Web",
+        "url": "http://twitter.com"
+      },
       "imageBottomRight": {
         "dimensions": {
           "width": 592,
@@ -64,19 +63,14 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=592&h=280&fit=crop",
-        "mobile": {
-          "dimensions": {
-            "width": 560,
-            "height": 280
-          },
-          "alt": "Placeholder image",
-          "copyright": null,
-          "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=560&h=280&fit=crop"
-        }
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=592&h=280&fit=crop"
       },
-      "imageBottomRightTitle": "generate end-to-end partnerships",
-      "imageBottomRightCta": "incentivize revolutionary solutions"
+      "imageBottomRightTitle": "morph e-business systems",
+      "imageBottomRightCta": "strategize robust e-tailers",
+      "bottomRightImageLink": {
+        "link_type": "Web",
+        "url": "http://google.com"
+      }
     }
   }
 ]

@@ -20,10 +20,33 @@
         },
         "subtitle": {
           "config": {
-            "label": "Subtitle",
-            "placeholder": "Enter subtitle here..."
+            "label": "Secondary Title",
+            "placeholder": "Enter secondary title here..."
           },
           "type": "Text"
+        },
+        "linkLabel": {
+          "config": {
+            "label": "CTA Label",
+            "placeholder": "This is the label of the Link"
+          },
+          "type": "Text"
+        },
+        "link": {
+          "config": {
+            "label": "CTA Link",
+            "placeholder": "",
+            "select": "document",
+            "allowTargetBlank": false
+          },
+          "type": "Link"
+        },
+        "backgroundColor": {
+          "config": {
+            "label": "backgroundColor",
+            "placeholder": ""
+          },
+          "type": "Color"
         },
         "image1": {
           "config": {
@@ -102,19 +125,10 @@
           },
           "type": "Image"
         },
-        "link": {
+        "personalisationid": {
           "config": {
-            "label": "CTA Link",
-            "placeholder": "",
-            "select": "document",
-            "allowTargetBlank": false
-          },
-          "type": "Link"
-        },
-        "linkLabel": {
-          "config": {
-            "label": "CTA Label",
-            "placeholder": ""
+            "label": "personalisationid",
+            "placeholder": "For personalization use only"
           },
           "type": "Text"
         },
@@ -124,20 +138,6 @@
             "catalog": "demo-sm-next-ecom--intents",
             "label": "Uniform Intent"
           }
-        },
-        "personalisationid": {
-          "config": {
-            "label": "personalisationid",
-            "placeholder": ""
-          },
-          "type": "Text"
-        },
-        "backgroundColor": {
-          "config": {
-            "label": "backgroundColor",
-            "placeholder": ""
-          },
-          "type": "Color"
         }
       },
       "items": {}

@@ -32,7 +32,10 @@
         "image1": {
           "config": {
             "label": "First Image",
-            "constraint": {},
+            "constraint": {
+              "width": 288,
+              "height": 288
+            },
             "thumbnails": []
           },
           "type": "Image"
@@ -40,7 +43,10 @@
         "image2": {
           "config": {
             "label": "Second Image",
-            "constraint": {},
+            "constraint": {
+              "width": 288,
+              "height": 288
+            },
             "thumbnails": []
           },
           "type": "Image"
@@ -48,7 +54,10 @@
         "image3": {
           "config": {
             "label": "Third Image",
-            "constraint": {},
+            "constraint": {
+              "width": 288,
+              "height": 288
+            },
             "thumbnails": []
           },
           "type": "Image"
@@ -56,7 +65,10 @@
         "image4": {
           "config": {
             "label": "Fourth Image",
-            "constraint": {},
+            "constraint": {
+              "width": 288,
+              "height": 288
+            },
             "thumbnails": []
           },
           "type": "Image"
@@ -64,7 +76,10 @@
         "image5": {
           "config": {
             "label": "Fifth Image",
-            "constraint": {},
+            "constraint": {
+              "width": 288,
+              "height": 288
+            },
             "thumbnails": []
           },
           "type": "Image"
@@ -72,24 +87,26 @@
         "image6": {
           "config": {
             "label": "Sixth Image",
-            "constraint": {},
+            "constraint": {
+              "width": 288,
+              "height": 288
+            },
             "thumbnails": []
           },
           "type": "Image"
         },
         "ctaLink": {
           "config": {
-            "label": "Call to Action",
-            "placeholder": "",
-            "select": "web",
-            "allowTargetBlank": false
+            "label": "Call to action label",
+            "customtypes": [],
+            "select": "document"
           },
           "type": "Link"
         },
         "linkLabel": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Call to Action Label",
+            "placeholder": "Click here..."
           },
           "type": "Text"
         }

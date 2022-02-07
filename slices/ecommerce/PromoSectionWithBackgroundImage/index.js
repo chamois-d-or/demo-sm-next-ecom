@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link, RichText } from 'prismic-reactjs'
-import {linkResolver} from '../../../prismic-configuration'
 
 const PromoSectionWithBackgroundImage = ({ slice }) => (
   <section>
@@ -23,7 +22,7 @@ const PromoSectionWithBackgroundImage = ({ slice }) => (
                 <RichText render={slice.primary.description} />
               </div>
               <a
-                href={Link.url(slice.primary.link,linkResolver)}
+                href={Link.url(slice.primary.link)}
                 className="mt-8 w-full block bg-white border border-transparent rounded-md py-3 px-8 text-base font-medium text-gray-900 hover:bg-gray-100 sm:w-auto"
               >
                 <span >{ slice.primary.linkLabel }</span>

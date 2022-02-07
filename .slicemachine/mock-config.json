@@ -81,6 +81,12 @@
               "patternType": "HEADING",
               "blocks": 1
             }
+          },
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
           }
         },
         "primary": {
@@ -95,13 +101,7 @@
               "patternType": "HEADING",
               "blocks": 1
             }
-          }
-        }
-      }
-    },
-    "CategoryPreviewWithImageBackgrounds": {
-      "default-slice": {
-        "primary": {
+          },
           "title": {
             "config": {
               "patternType": "HEADING",
@@ -111,9 +111,48 @@
         }
       }
     },
+    "CategoryPreviewWithScrollingCards": {
+      "default-slice": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "PromoSectionFadingBackgroundTestimonials": {
+      "default-slice": {
+        "primary": {},
+        "items": {}
+      }
+    },
+    "CategoryPreviewWithImageBackgrounds": {
+      "default-slice": {
+        "primary": {}
+      }
+    },
+    "PromoSectionFullWidthWithOverlappingImageTiles": {
+      "default-slice": {
+        "primary": {}
+      }
+    },
     "PromoSectionImageTiles": {
       "default-slice": {
         "primary": {}
+      }
+    },
+    "PromoSectionWithBackgroundImage": {
+      "default-slice": {
+        "primary": {}
+      }
+    },
+    "ProductListWithCta": {
+      "default-slice": {
+        "primary": {
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
       }
     }
   }

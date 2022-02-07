@@ -24,7 +24,17 @@ const ProductFeaturesWithWideImages = ({ slice }) => (
                 </div>
                 <div className="flex-auto lg:col-span-7 xl:col-span-8">
                   <div className="aspect-w-5 aspect-h-2 rounded-lg bg-gray-100 overflow-hidden">
-                    <img src={item.image.url} alt={item.image.alt} className="object-center object-cover" />
+                  <picture>
+                    {item.image.mobile
+                      ? <source srcSet={item.image.mobile.url} media="(max-width: 640px)"/>
+                      : <div/>
+                    }
+                    <img
+                      src={item.image.url}
+                      alt={item.image.alt}
+                      className="object-center object-cover"
+                    />
+                  </picture>
                   </div>
                 </div>
               </div>

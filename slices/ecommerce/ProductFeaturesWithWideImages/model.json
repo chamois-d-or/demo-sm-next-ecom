@@ -14,24 +14,25 @@
         "title": {
           "type": "StructuredText",
           "config": {
-            "single": "heading1",
-            "label": "Title",
-            "placeholder": "This is where it all begins..."
+            "label": "Top Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading1"
           }
         },
-        "subtitle": {
+        "description": {
           "config": {
-            "label": "subtitle",
-            "placeholder": "",
+            "label": "Main Title",
+            "placeholder": "This is main title...",
             "allowTargetBlank": true,
             "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
           },
           "type": "StructuredText"
         },
-        "description": {
+        "subtitle": {
           "config": {
-            "label": "Description",
-            "placeholder": "",
+            "label": "Lower title",
+            "placeholder": "This is a light description...",
             "allowTargetBlank": true,
             "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
           },
@@ -41,16 +42,25 @@
       "items": {
         "image": {
           "config": {
-            "label": "image",
-            "constraint": {},
-            "thumbnails": []
+            "label": "Feature image",
+            "constraint": {
+              "width": 800,
+              "height": 320
+            },
+            "thumbnails": [
+              {
+                "name": "mobile",
+                "width": 352,
+                "height": 141
+              }
+            ]
           },
           "type": "Image"
         },
         "title": {
           "config": {
-            "label": "title",
-            "placeholder": "",
+            "label": "Title",
+            "placeholder": "This is the title of the feature...",
             "allowTargetBlank": true,
             "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
           },
@@ -58,8 +68,8 @@
         },
         "description": {
           "config": {
-            "label": "description",
-            "placeholder": "",
+            "label": "Description",
+            "placeholder": "Description of the feature...",
             "allowTargetBlank": true,
             "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
           },

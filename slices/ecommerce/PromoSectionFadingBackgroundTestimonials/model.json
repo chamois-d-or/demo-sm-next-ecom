@@ -30,21 +30,32 @@
         "cta": {
           "config": {
             "label": "CTA",
-            "placeholder": ""
+            "placeholder": "Call to action label"
           },
           "type": "Text"
         },
+        "link": {
+          "config": {
+            "label": "CTA Link",
+            "customtypes": [],
+            "select": "document"
+          },
+          "type": "Link"
+        },
         "quotesTitle": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Title of quotes section",
+            "placeholder": "What are people saying?"
           },
           "type": "Text"
         },
         "image": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Background Image",
+            "constraint": {
+              "width": 1216,
+              "height": 956
+            },
             "thumbnails": []
           },
           "type": "Image"
@@ -53,15 +64,15 @@
       "items": {
         "quote": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Quote Text",
+            "placeholder": "This is the text of the quote"
           },
           "type": "Text"
         },
         "attribution": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Quote Author",
+            "placeholder": "This is the author of the quote"
           },
           "type": "Text"
         }

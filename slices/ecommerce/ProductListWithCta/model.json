@@ -23,11 +23,19 @@
         "description": {
           "type": "StructuredText",
           "config": {
-            "label": "Description",
-            "placeholder": "A nice description of your feature",
+            "label": "Call to action",
+            "placeholder": "See more...",
             "allowTargetBlank": true,
             "single": "paragraph"
           }
+        },
+        "link": {
+          "config": {
+            "label": "Link",
+            "customtypes": [],
+            "select": "document"
+          },
+          "type": "Link"
         }
       },
       "items": {

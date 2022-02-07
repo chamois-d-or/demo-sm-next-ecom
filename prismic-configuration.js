@@ -73,6 +73,10 @@ export const Router = {
       "path":"/marketing/"
     },
     {
+      "type":"uniform-page",
+      "path":"/uniform/:uid"
+    },
+    {
       "type":"home-page",
       "path":"/:lang"
     },],

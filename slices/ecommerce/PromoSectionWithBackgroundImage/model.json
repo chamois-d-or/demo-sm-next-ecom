@@ -29,25 +29,33 @@
         },
         "image": {
           "config": {
-            "label": "",
-            "constraint": {},
-            "thumbnails": []
+            "label": "Image",
+            "constraint": {
+              "width": 1216,
+              "height": 482
+            },
+            "thumbnails": [
+              {
+                "name": "mobile",
+                "width": 605,
+                "height": 443
+              }
+            ]
           },
           "type": "Image"
         },
         "link": {
           "config": {
-            "label": "",
-            "placeholder": "",
-            "select": "document",
-            "allowTargetBlank": false
+            "label": "Link",
+            "customtypes": [],
+            "select": "document"
           },
           "type": "Link"
         },
         "linkLabel": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Link Label",
+            "placeholder": "This is the text of the button"
           },
           "type": "Text"
         }

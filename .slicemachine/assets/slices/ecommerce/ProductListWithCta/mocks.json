@@ -7,7 +7,7 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "https://prismic.io"
         }
       },
       {
@@ -19,19 +19,7 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "http://twitter.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://prismic.io"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "https://slicemachine.dev"
         }
       }
     ],
@@ -39,17 +27,21 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Enhance best-of-breed functionalities",
+          "text": "Exploit integrated infomediaries",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Culpa id anim nostrud id anim et dolor magna veniam sunt.",
+          "text": "Et aliquip ad nisi esse nostrud quis incididunt laborum ullamco. Nostrud et proident exercitation occaecat nulla in ullamco et in sunt veniam laboris nostrud.",
           "spans": []
         }
-      ]
+      ],
+      "link": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      }
     }
   },
   {
@@ -60,7 +52,13 @@
       {
         "productLink": {
           "link_type": "Web",
-          "url": "http://twitter.com"
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
         }
       },
       {
@@ -74,14 +72,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Disintermediate holistic bandwidth",
+          "text": "Maximize clicks-and-mortar deliverables",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Dolore sunt et laborum duis. Enim sunt consectetur culpa consectetur aliquip laborum est ullamco Lorem non exercitation anim nulla elit minim. Adipisicing tempor sint ipsum eu in non labore reprehenderit exercitation nisi incididunt Lorem occaecat nostrud fugiat.",
+          "text": "Amet incididunt incididunt irure commodo id ullamco pariatur consequat ut magna.",
           "spans": []
         }
       ]

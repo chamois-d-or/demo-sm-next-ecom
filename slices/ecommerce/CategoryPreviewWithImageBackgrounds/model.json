@@ -22,17 +22,16 @@
         },
         "linkLabel": {
           "config": {
-            "label": "linkLabel",
+            "label": "Link Label",
             "placeholder": "See more..."
           },
           "type": "Text"
         },
         "link": {
           "config": {
-            "label": "link",
-            "placeholder": "",
-            "select": "web",
-            "allowTargetBlank": false
+            "label": "Link",
+            "customtypes": [],
+            "select": "document"
           },
           "type": "Link"
         },
@@ -67,6 +66,14 @@
           },
           "type": "Text"
         },
+        "leftImageLink": {
+          "config": {
+            "label": "Left Image Linked Document",
+            "customtypes": [],
+            "select": "document"
+          },
+          "type": "Link"
+        },
         "imageTopRight": {
           "config": {
             "label": "Top Right Image",
@@ -74,13 +81,7 @@
               "width": 592,
               "height": 280
             },
-            "thumbnails": [
-              {
-                "name": "mobile",
-                "width": 560,
-                "height": 280
-              }
-            ]
+            "thumbnails": []
           },
           "type": "Image"
         },
@@ -98,6 +99,14 @@
           },
           "type": "Text"
         },
+        "topRightImageLink": {
+          "config": {
+            "label": "Top Right Image Linked Document",
+            "customtypes": [],
+            "select": "document"
+          },
+          "type": "Link"
+        },
         "imageBottomRight": {
           "config": {
             "label": "Bottom Right Image",
@@ -105,13 +114,7 @@
               "width": 592,
               "height": 280
             },
-            "thumbnails": [
-              {
-                "name": "mobile",
-                "width": 560,
-                "height": 280
-              }
-            ]
+            "thumbnails": []
           },
           "type": "Image"
         },
@@ -128,6 +131,14 @@
             "placeholder": "My third category description..."
           },
           "type": "Text"
+        },
+        "bottomRightImageLink": {
+          "config": {
+            "label": "Bottom Right Image Linked Document",
+            "customtypes": [],
+            "select": "document"
+          },
+          "type": "Link"
         }
       },
       "items": {}

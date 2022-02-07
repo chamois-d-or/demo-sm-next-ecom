@@ -1,6 +1,5 @@
 import React from 'react'
-import { RichText } from 'prismic-reactjs'
-import SliceResolver from '../../../sm-resolver'
+import { RichText, Link } from 'prismic-reactjs'
 
 const ProductListWithCta = ({ slice }) => (
   <section>
@@ -8,7 +7,7 @@ const ProductListWithCta = ({ slice }) => (
       <div className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
         <div className="md:flex md:items-center md:justify-between">
           <h2 className="text-2xl font-extrabold tracking-tight text-gray-900">{RichText.asText(slice.primary.title)}</h2>
-          <a href="#" className="hidden text-sm font-medium text-indigo-600 hover:text-indigo-500 md:block">
+          <a href={Link.url(slice.primary.link)} className="hidden text-sm font-medium text-indigo-600 hover:text-indigo-500 md:block">
             {RichText.asText(slice.primary.description)}<span aria-hidden="true"> &rarr;</span>
           </a>
         </div>

@@ -13,27 +13,30 @@
       "primary": {
         "title": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Title",
+            "placeholder": "This is your title..."
           },
           "type": "Text"
         },
         "description": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Description",
+            "placeholder": "This will appear below the title..."
           },
           "type": "Text"
         },
         "image": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Banner Image",
+            "constraint": {
+              "width": 1024,
+              "height": 325
+            },
             "thumbnails": [
               {
                 "name": "mobile",
-                "width": 500,
-                "height": 500
+                "width": 600,
+                "height": 410
               }
             ]
           },
@@ -41,14 +44,14 @@
         },
         "cta": {
           "config": {
-            "label": "CTA",
-            "placeholder": ""
+            "label": "CTA Label",
+            "placeholder": "This is the label of the button..."
           },
           "type": "Text"
         },
         "CTALink": {
           "config": {
-            "label": "CTALink",
+            "label": "Linked page",
             "customtypes": [],
             "select": "document"
           },
@@ -66,27 +69,30 @@
       "primary": {
         "title": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Title",
+            "placeholder": "This is your title..."
           },
           "type": "Text"
         },
         "description": {
           "config": {
-            "label": "",
-            "placeholder": ""
+            "label": "Description",
+            "placeholder": "This will appear below the title..."
           },
           "type": "Text"
         },
         "image": {
           "config": {
-            "label": "",
-            "constraint": {},
+            "label": "Banner Image",
+            "constraint": {
+              "width": 1024,
+              "height": 325
+            },
             "thumbnails": [
               {
                 "name": "mobile",
-                "width": 500,
-                "height": 500
+                "width": 600,
+                "height": 410
               }
             ]
           },

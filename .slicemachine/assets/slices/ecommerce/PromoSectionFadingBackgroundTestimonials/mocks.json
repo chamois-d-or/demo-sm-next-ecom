@@ -5,59 +5,47 @@
     "slice_type": "promo_section_fading_background_testimonials",
     "items": [
       {
-        "quote": "integrate cross-media metrics",
-        "attribution": "drive robust blockchains"
+        "quote": "streamline wireless methodologies",
+        "attribution": "matrix world-class action-items"
       },
       {
-        "quote": "orchestrate sexy technologies",
-        "attribution": "empower innovative interfaces"
+        "quote": "e-enable extensible deliverables",
+        "attribution": "implement turn-key infomediaries"
       },
       {
-        "quote": "innovate world-class initiatives",
-        "attribution": "brand innovative schemas"
-      },
-      {
-        "quote": "evolve user-centric eyeballs",
-        "attribution": "cultivate user-centric platforms"
-      },
-      {
-        "quote": "deploy cross-platform e-business",
-        "attribution": "facilitate frictionless methodologies"
-      },
-      {
-        "quote": "drive plug-and-play initiatives",
-        "attribution": "unleash world-class niches"
-      },
-      {
-        "quote": "incentivize seamless supply-chains",
-        "attribution": "evolve frictionless solutions"
+        "quote": "reinvent leading-edge solutions",
+        "attribution": "repurpose B2C experiences"
       }
     ],
     "primary": {
       "title": [
         {
           "type": "heading1",
-          "text": "Target one-to-one schemas",
+          "text": "Target vertical solutions",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Ex duis dolore in nulla laboris nostrud non minim incididunt id. Ipsum reprehenderit quis eiusmod id tempor nisi voluptate consequat aute aliquip mollit in non. Commodo excepteur duis Lorem reprehenderit laboris ipsum.",
+          "text": "Fugiat deserunt deserunt mollit quis duis Lorem est. Magna fugiat duis nulla.",
           "spans": []
         }
       ],
-      "cta": "synergize bricks-and-clicks relationships",
-      "quotesTitle": "disintermediate next-generation markets",
+      "cta": "repurpose robust technologies",
+      "link": {
+        "link_type": "Web",
+        "url": "http://twitter.com"
+      },
+      "quotesTitle": "optimize e-business solutions",
       "image": {
         "dimensions": {
-          "width": 900,
-          "height": 500
+          "width": 1216,
+          "height": 956
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1216&h=956&fit=crop"
       }
     }
   }

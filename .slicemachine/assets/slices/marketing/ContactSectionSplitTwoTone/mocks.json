@@ -5,46 +5,54 @@
     "slice_type": "contact_section_split_two_tone",
     "items": [
       {
-        "field": "exploit web-enabled blockchains",
-        "fieldPlaceholder": "mesh dot-com supply-chains"
+        "field": "generate best-of-breed convergence",
+        "fieldPlaceholder": "seize vertical supply-chains"
       },
       {
-        "field": "drive leading-edge relationships",
-        "fieldPlaceholder": "aggregate holistic e-tailers"
+        "field": "matrix B2B paradigms",
+        "fieldPlaceholder": "seize e-business e-markets"
       },
       {
-        "field": "morph B2B initiatives",
-        "fieldPlaceholder": "harness scalable communities"
+        "field": "cultivate cross-platform mindshare",
+        "fieldPlaceholder": "iterate innovative eyeballs"
+      },
+      {
+        "field": "deliver bricks-and-clicks portals",
+        "fieldPlaceholder": "integrate front-end markets"
+      },
+      {
+        "field": "whiteboard ubiquitous e-business",
+        "fieldPlaceholder": "mesh revolutionary channels"
       }
     ],
     "primary": {
       "title": [
         {
           "type": "paragraph",
-          "text": "Occaecat qui veniam magna ut dolor sint officia anim nostrud minim velit mollit veniam.",
+          "text": "Aliquip et sint ullamco nostrud nulla magna est occaecat ad id eiusmod veniam consequat Lorem. Eiusmod aliqua nisi et minim ipsum tempor qui sunt pariatur ullamco exercitation nostrud deserunt magna. Amet pariatur cillum ipsum veniam.",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Sunt nisi incididunt esse veniam ut. Sit ea incididunt sint incididunt magna laborum sunt adipisicing adipisicing Lorem ullamco sit. Cillum aliqua enim anim commodo sint fugiat ipsum sit qui est qui.",
+          "text": "Quis irure eiusmod voluptate proident labore cillum labore sint do. Et culpa voluptate consequat proident duis magna labore Lorem sunt id magna esse non consequat.",
           "spans": []
         }
       ],
       "address": [
         {
           "type": "paragraph",
-          "text": "Commodo qui aliquip eu aliqua sit dolor veniam. Aute non et qui commodo minim do nisi culpa commodo non adipisicing elit nostrud minim. Fugiat tempor mollit veniam culpa excepteur quis nostrud elit aute eiusmod magna officia esse.",
+          "text": "Id in enim nostrud voluptate anim quis esse consequat veniam non labore et dolor officia ad. Adipisicing ut est eiusmod aliquip aliqua.",
           "spans": []
         }
       ],
-      "phone": "innovate e-business action-items",
-      "email": "evolve leading-edge interfaces",
+      "phone": "maximize efficient networks",
+      "email": "maximize front-end blockchains",
       "careerText": [
         {
           "type": "paragraph",
-          "text": "Excepteur cillum duis magna adipisicing commodo.",
+          "text": "Ipsum cillum officia amet nulla ullamco excepteur nulla sunt enim anim minim fugiat.",
           "spans": []
         }
       ],
@@ -52,8 +60,8 @@
         "link_type": "Web",
         "url": "http://google.com"
       },
-      "CareerLinkText": "scale efficient web services",
-      "cta": "deploy seamless synergies"
+      "CareerLinkText": "deploy global synergies",
+      "cta": "innovate dot-com architectures"
     }
   }
 ]
