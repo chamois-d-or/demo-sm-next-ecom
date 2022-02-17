@@ -111,46 +111,25 @@
         }
       }
     },
-    "CategoryPreviewWithScrollingCards": {
-      "default-slice": {
-        "primary": {},
-        "items": {}
-      }
-    },
-    "PromoSectionFadingBackgroundTestimonials": {
-      "default-slice": {
-        "primary": {},
-        "items": {}
-      }
-    },
-    "CategoryPreviewWithImageBackgrounds": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "PromoSectionFullWidthWithOverlappingImageTiles": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "PromoSectionImageTiles": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "PromoSectionWithBackgroundImage": {
-      "default-slice": {
-        "primary": {}
-      }
-    },
-    "ProductListWithCta": {
+    "ChartSlice": {
       "default-slice": {
         "primary": {
-          "description": {
+          "additionalInfoTitle": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "additionalInfo": {
             "config": {
               "patternType": "PARAGRAPH",
               "blocks": 1
             }
+          }
+        },
+        "items": {
+          "entityLabel": {
+            "content": "Business unit"
           }
         }
       }

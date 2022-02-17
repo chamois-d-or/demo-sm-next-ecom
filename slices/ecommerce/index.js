@@ -2,6 +2,8 @@
 
 export { default as CategoryPreviewWithImageBackgrounds } from './CategoryPreviewWithImageBackgrounds'
 export { default as CategoryPreviewWithScrollingCards } from './CategoryPreviewWithScrollingCards'
+export { default as ChartSlice } from './ChartSlice'
+export { default as ExternalVideoSlice } from './ExternalVideoSlice'
 export { default as HeroBanner } from './HeroBanner'
 export { default as ProductFeaturesWithWideImages } from './ProductFeaturesWithWideImages'
 export { default as ProductListWithCta } from './ProductListWithCta'
