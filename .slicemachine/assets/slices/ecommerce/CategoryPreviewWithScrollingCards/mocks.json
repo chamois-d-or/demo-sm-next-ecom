@@ -12,9 +12,41 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=224&h=320&fit=crop"
+          "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=224&h=320&fit=crop"
         },
-        "title": "transform revolutionary partnerships",
+        "title": "orchestrate sexy initiatives",
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 224,
+            "height": 320
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=224&h=320&fit=crop"
+        },
+        "title": "scale e-business ROI",
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 224,
+            "height": 320
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1589321599763-d66926c29613?w=224&h=320&fit=crop"
+        },
+        "title": "whiteboard seamless relationships",
         "link": {
           "link_type": "Web",
           "url": "https://prismic.io"
@@ -28,9 +60,25 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=224&h=320&fit=crop"
+          "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=224&h=320&fit=crop"
         },
-        "title": "benchmark efficient vortals",
+        "title": "morph granular convergence",
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 224,
+            "height": 320
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=224&h=320&fit=crop"
+        },
+        "title": "brand world-class e-business",
         "link": {
           "link_type": "Web",
           "url": "http://twitter.com"
@@ -41,11 +89,11 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Integrate customized content",
+          "text": "Orchestrate plug-and-play content",
           "spans": []
         }
       ],
-      "CTA": "implement integrated partnerships",
+      "CTA": "deliver rich blockchains",
       "CTALink": {
         "link_type": "Web",
         "url": "http://twitter.com"

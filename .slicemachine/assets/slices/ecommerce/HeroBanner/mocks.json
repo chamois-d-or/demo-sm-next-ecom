@@ -5,8 +5,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "utilize rich communities",
-      "description": "redefine compelling relationships",
+      "title": "extend integrated portals",
+      "description": "harness open-source supply-chains",
       "image": {
         "dimensions": {
           "width": 1024,
@@ -14,7 +14,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?w=1024&h=325&fit=crop",
+        "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=1024&h=325&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 600,
@@ -22,13 +22,13 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?w=600&h=410&fit=crop"
+          "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=600&h=410&fit=crop"
         }
       },
-      "cta": "engage collaborative paradigms",
+      "cta": "recontextualize best-of-breed functionalities",
       "CTALink": {
         "link_type": "Web",
-        "url": "https://prismic.io"
+        "url": "http://twitter.com"
       }
     }
   },
@@ -38,8 +38,8 @@
     "slice_type": "hero_banner",
     "items": [],
     "primary": {
-      "title": "syndicate seamless e-tailers",
-      "description": "incentivize enterprise e-business",
+      "title": "streamline one-to-one channels",
+      "description": "reinvent plug-and-play networks",
       "image": {
         "dimensions": {
           "width": 1024,
@@ -47,7 +47,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=1024&h=325&fit=crop",
+        "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=1024&h=325&fit=crop",
         "mobile": {
           "dimensions": {
             "width": 600,
@@ -55,7 +55,7 @@
           },
           "alt": "Placeholder image",
           "copyright": null,
-          "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=600&h=410&fit=crop"
+          "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=600&h=410&fit=crop"
         }
       }
     }

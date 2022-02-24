@@ -8,34 +8,34 @@
       "title1": [
         {
           "type": "heading1",
-          "text": "Unleash user-centric networks",
+          "text": "Productize wireless paradigms",
           "spans": []
         }
       ],
       "title2": [
         {
           "type": "heading1",
-          "text": "Generate frictionless synergies",
+          "text": "Extend real-time supply-chains",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Consequat nisi commodo laboris incididunt amet non officia nostrud ex velit nisi fugiat quis.",
+          "text": "Enim do excepteur pariatur reprehenderit consequat veniam consequat deserunt ullamco voluptate in in tempor et minim. Laboris duis id culpa aliqua proident reprehenderit cupidatat eu reprehenderit voluptate magna dolor minim anim.",
           "spans": []
         }
       ],
       "cta1": {
         "link_type": "Web",
-        "url": "https://slicemachine.dev"
+        "url": "https://prismic.io"
       },
-      "ctaLabel1": "evolve mission-critical technologies",
+      "ctaLabel1": "e-enable frictionless deliverables",
       "cta2": {
         "link_type": "Web",
         "url": "https://slicemachine.dev"
       },
-      "ctaLabel2": "transform B2C models",
+      "ctaLabel2": "extend transparent models",
       "image": {
         "dimensions": {
           "width": 900,
@@ -43,7 +43,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=900&h=500&fit=crop"
+        "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89?w=900&h=500&fit=crop"
       }
     }
   }

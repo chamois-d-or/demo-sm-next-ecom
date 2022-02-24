@@ -38,20 +38,20 @@
         }
       }
     },
-    "SEO": {
-      "metaTitle": {
+    "SEO Metadata": {
+      "meta_title": {
+        "type": "Text",
         "config": {
-          "label": "MetaTitle",
-          "placeholder": ""
-        },
-        "type": "Text"
+          "label": "Meta Title",
+          "placeholder": "My title for Search Engine"
+        }
       },
-      "metaDescription": {
+      "meta_description": {
+        "type": "Text",
         "config": {
-          "label": "MetaDescription",
-          "placeholder": ""
-        },
-        "type": "Text"
+          "label": "Meta Description",
+          "placeholder": "The description that will appear in search engine"
+        }
       },
       "canonicalLink": {
         "config": {
@@ -61,6 +61,34 @@
           "allowTargetBlank": false
         },
         "type": "Link"
+      },
+      "social_cards": {
+        "type": "Group",
+        "config": {
+          "fields": {
+            "social_card_image": {
+              "type": "Image",
+              "config": {
+                "constraint": {},
+                "thumbnails": [],
+                "label": "Social Card Image"
+              }
+            },
+            "social_card_title": {
+              "type": "Text",
+              "config": {
+                "label": "Social Card Title"
+              }
+            },
+            "social_card_description": {
+              "type": "Text",
+              "config": {
+                "label": "Social card description"
+              }
+            }
+          },
+          "label": "Social Cards - Facebook & Twitter"
+        }
       }
     }
   }

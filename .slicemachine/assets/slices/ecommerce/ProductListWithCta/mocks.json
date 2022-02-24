@@ -7,31 +7,25 @@
       {
         "productLink": {
           "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
           "url": "http://google.com"
         }
       },
       {
         "productLink": {
           "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "https://slicemachine.dev"
+          "url": "http://twitter.com"
         }
       }
     ],
@@ -39,14 +33,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Embrace enterprise niches",
+          "text": "Deploy interactive infrastructures",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Velit nulla cillum duis amet veniam ea laboris incididunt quis labore amet non exercitation anim.",
+          "text": "Nulla ullamco sint culpa in do.",
           "spans": []
         }
       ],
@@ -64,37 +58,31 @@
       {
         "productLink": {
           "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "productLink": {
+          "link_type": "Web",
           "url": "https://prismic.io"
         }
       },
       {
         "productLink": {
           "link_type": "Web",
-          "url": "http://twitter.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://twitter.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
-        }
-      },
-      {
-        "productLink": {
-          "link_type": "Web",
-          "url": "http://google.com"
+          "url": "https://slicemachine.dev"
         }
       }
     ],
@@ -102,14 +90,14 @@
       "title": [
         {
           "type": "heading1",
-          "text": "Matrix back-end experiences",
+          "text": "Scale magnetic convergence",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Culpa dolor enim et esse incididunt quis et mollit.",
+          "text": "Occaecat nisi dolore non veniam nisi dolore deserunt veniam aute fugiat non labore aute minim.",
           "spans": []
         }
       ]

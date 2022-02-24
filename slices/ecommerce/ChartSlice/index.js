@@ -1,16 +1,7 @@
 import React from 'react'
 import { RichText } from 'prismic-reactjs';
 
-import { PieChart, Pie, ResponsiveContainer, Tooltip } from 'recharts';
-
-const data02 = [
-  { name: 'A1', value: 100 },
-  { name: 'A2', value: 100 },
-  { name: 'B1', value: 100 },
-  { name: 'B2', value: 80 },
-  { name: 'B3', value: 40 },
-  { name: 'B4', value: 30 },
-];
+import { PieChart, Pie, ResponsiveContainer } from 'recharts';
 
 const ChartSlice = ({ slice }) => (
   <section>

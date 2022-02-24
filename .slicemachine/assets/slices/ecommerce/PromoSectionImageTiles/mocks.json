@@ -5,14 +5,14 @@
     "slice_type": "promo_section_image_tiles",
     "items": [],
     "primary": {
-      "title": "enable e-business channels",
-      "subtitle": "extend world-class communities",
-      "linkLabel": "utilize transparent partnerships",
+      "title": "aggregate B2C channels",
+      "subtitle": "embrace customized partnerships",
+      "linkLabel": "incentivize sticky interfaces",
       "link": {
         "link_type": "Web",
-        "url": "http://twitter.com"
+        "url": "http://google.com"
       },
-      "backgroundColor": "#43c515",
+      "backgroundColor": "#d78b31",
       "image1": {
         "dimensions": {
           "width": 176,
@@ -20,7 +20,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=176&h=256&fit=crop"
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=176&h=256&fit=crop"
       },
       "image2": {
         "dimensions": {
@@ -29,7 +29,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=176&h=256&fit=crop"
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=176&h=256&fit=crop"
       },
       "image3": {
         "dimensions": {
@@ -38,7 +38,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=176&h=256&fit=crop"
+        "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=176&h=256&fit=crop"
       },
       "image4": {
         "dimensions": {
@@ -47,7 +47,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?w=176&h=256&fit=crop"
+        "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=176&h=256&fit=crop"
       },
       "image5": {
         "dimensions": {
@@ -56,7 +56,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89?w=176&h=256&fit=crop"
+        "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?w=176&h=256&fit=crop"
       },
       "image6": {
         "dimensions": {
@@ -65,7 +65,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=176&h=256&fit=crop"
+        "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=176&h=256&fit=crop"
       },
       "image7": {
         "dimensions": {
@@ -74,9 +74,9 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f?w=176&h=256&fit=crop"
+        "url": "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=176&h=256&fit=crop"
       },
-      "personalisationid": "transform innovative communities"
+      "personalisationid": "architect integrated ROI"
     }
   }
 ]

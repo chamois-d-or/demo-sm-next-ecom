@@ -5,47 +5,39 @@
     "slice_type": "promo_section_fading_background_testimonials",
     "items": [
       {
-        "quote": "utilize innovative action-items",
-        "attribution": "embrace leading-edge methodologies"
+        "quote": "utilize frictionless systems",
+        "attribution": "redefine efficient vortals"
       },
       {
-        "quote": "engineer robust applications",
-        "attribution": "expedite cross-media channels"
+        "quote": "iterate customized technologies",
+        "attribution": "incubate interactive metrics"
       },
       {
-        "quote": "benchmark cutting-edge deliverables",
-        "attribution": "architect customized relationships"
-      },
-      {
-        "quote": "transform frictionless communities",
-        "attribution": "transform granular vortals"
-      },
-      {
-        "quote": "recontextualize robust paradigms",
-        "attribution": "e-enable revolutionary web services"
+        "quote": "morph 24/365 users",
+        "attribution": "revolutionize transparent methodologies"
       }
     ],
     "primary": {
       "title": [
         {
           "type": "heading1",
-          "text": "Synergize sticky partnerships",
+          "text": "Reintermediate ubiquitous mindshare",
           "spans": []
         }
       ],
       "description": [
         {
           "type": "paragraph",
-          "text": "Duis eu reprehenderit ullamco est id exercitation. Officia incididunt et tempor esse veniam tempor consequat. Eu deserunt Lorem magna labore.",
+          "text": "Ipsum nisi consequat aute aute mollit do cillum. Ad tempor ad laborum deserunt occaecat id duis et non quis exercitation voluptate.",
           "spans": []
         }
       ],
-      "cta": "streamline magnetic relationships",
+      "cta": "disintermediate proactive networks",
       "link": {
         "link_type": "Web",
-        "url": "https://prismic.io"
+        "url": "http://twitter.com"
       },
-      "quotesTitle": "syndicate collaborative interfaces",
+      "quotesTitle": "enhance 24/365 mindshare",
       "image": {
         "dimensions": {
           "width": 1216,
@@ -53,7 +45,7 @@
         },
         "alt": "Placeholder image",
         "copyright": null,
-        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=1216&h=956&fit=crop"
+        "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1216&h=956&fit=crop"
       }
     }
   }

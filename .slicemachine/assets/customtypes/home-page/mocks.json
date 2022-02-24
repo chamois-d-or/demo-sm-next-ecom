@@ -1,13 +1,80 @@
 {
-  "id": "4cb11772-6373-40af-8cc2-9e9787e9d88b",
-  "uid": "iure-aut-quisquam",
+  "id": "ba853a57-f7b1-4438-b2cd-390ccad1759e",
+  "uid": "occaecati-consequatur-quasi",
   "type": "home-page",
   "data": {
-    "metaTitle": "exploit proactive e-business",
-    "metaDescription": "engineer web-enabled channels",
+    "meta_title": "incubate best-of-breed e-tailers",
+    "meta_description": "synthesize seamless content",
     "canonicalLink": {
       "link_type": "Web",
-      "url": "https://slicemachine.dev"
-    }
+      "url": "https://prismic.io"
+    },
+    "social_cards": [
+      {
+        "social_card_image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04?w=900&h=500&fit=crop"
+        },
+        "social_card_title": "expedite magnetic markets",
+        "social_card_description": "empower back-end web-readiness"
+      },
+      {
+        "social_card_image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118?w=900&h=500&fit=crop"
+        },
+        "social_card_title": "whiteboard customized platforms",
+        "social_card_description": "streamline visionary supply-chains"
+      },
+      {
+        "social_card_image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=900&h=500&fit=crop"
+        },
+        "social_card_title": "synergize extensible e-services",
+        "social_card_description": "architect robust functionalities"
+      },
+      {
+        "social_card_image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=900&h=500&fit=crop"
+        },
+        "social_card_title": "deliver sticky networks",
+        "social_card_description": "recontextualize turn-key blockchains"
+      },
+      {
+        "social_card_image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=900&h=500&fit=crop"
+        },
+        "social_card_title": "syndicate front-end functionalities",
+        "social_card_description": "evolve revolutionary convergence"
+      }
+    ]
   }
 }
