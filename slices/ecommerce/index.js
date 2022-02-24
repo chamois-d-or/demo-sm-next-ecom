@@ -12,4 +12,3 @@ export { default as PromoSectionFadingBackgroundTestimonials } from './PromoSect
 export { default as PromoSectionFullWidthWithOverlappingImageTiles } from './PromoSectionFullWidthWithOverlappingImageTiles'
 export { default as PromoSectionImageTiles } from './PromoSectionImageTiles'
 export { default as PromoSectionWithBackgroundImage } from './PromoSectionWithBackgroundImage'
-export { default as SafetySlice } from './SafetySlice'
